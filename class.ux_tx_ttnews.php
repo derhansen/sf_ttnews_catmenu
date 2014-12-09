@@ -66,5 +66,3 @@ class ux_tx_ttnews extends tx_ttnews {
 }
 
 ?>
-
-
